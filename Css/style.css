@@ -25,4 +25,8 @@
       padding: 2%;
   }
   
-  
+  .progressBar
+  {
+    margin:2%;
+    height: 25px;
+  }
